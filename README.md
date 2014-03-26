@@ -4,6 +4,13 @@ Mysql Backup To Dropbox
 
 This script you will need to run once manually to link to your dropbox folder.
 
+To Run
+
+````
+chmod 777 backupsql.sh
+./backupsql.sh
+````
+
 Once it's confirmed working then add it to the crontab.
 
 
