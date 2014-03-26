@@ -31,6 +31,10 @@ You can alter this by changing the following line:
 dropbox_uploader.sh delete $DROPBOXPATH/mysql_db_backup-`date +%d-%m-%y-%H --date 'now -5 days'`.bz2
 ````````````````````
 
+For adding to the crontab you can easily use the following site to generate how often you wish for it to run
+
+http://www.easycron.com/generator/crontab
+
 All should be easy to work out.
 
 Any issues please email me txt3rob@gmail.com
